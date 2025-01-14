@@ -1,7 +1,7 @@
 {
-  "name": "first-react",
+  "name": "count-option",
   "version": "0.1.0",
-  "homepage": "https://fkatsuhiro.github.io/first-react",
+  "homepage": "https://fkatsuhiro.github.io/count-option",
   "private": true,
   "dependencies": {
     "bootstrap": "^5.3.3",
